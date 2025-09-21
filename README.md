@@ -1,3 +1,9 @@
+#NOME DOS INTEGRANTES
+RM550161 - Eduardo Osorio Filho
+RM550610 - Fabio Hideki Kamikihara
+RM550260 - Pedro Moura Barros
+RM98896 - Rodrigo Fernandes dos Santos
+
 # Sales API Complete for VS Code
 
 ## Run
